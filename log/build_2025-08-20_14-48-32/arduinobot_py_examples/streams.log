@@ -1,0 +1,19 @@
+[11.480s] Invoking command in '/home/vboxuser/arduinobot_ws/src/arduinobot_py_examples': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[14.345s] running egg_info
+[14.606s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[14.608s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[14.613s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[14.613s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[14.917s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[14.922s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[14.930s] running build
+[14.931s] running build_py
+[14.933s] running install
+[15.011s] running install_lib
+[15.241s] running install_data
+[15.245s] running install_egg_info
+[15.538s] removing '/home/vboxuser/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages/arduinobot_py_examples-0.0.0-py3.12.egg-info' (and everything under it)
+[15.564s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/vboxuser/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages/arduinobot_py_examples-0.0.0-py3.12.egg-info
+[15.566s] running install_scripts
+[17.916s] writing list of installed files to '/home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[18.233s] Invoked command in '/home/vboxuser/arduinobot_ws/src/arduinobot_py_examples' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/vboxuser/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
